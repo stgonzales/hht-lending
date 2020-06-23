@@ -7,7 +7,8 @@ function createWindow () {
     height: 800,
     webPreferences: {
       nodeIntegration: true
-    }
+    },
+    enableRemoteModule: true
   })
 
   win.menuBarVisible = false
@@ -19,7 +20,7 @@ function createWindow () {
   win.loadFile('index.html')
 
   // Open the DevTools.
-//   win.webContents.openDevTools()
+  //win.webContents.openDevTools()
 }
 
 // This method will be called when Electron has finished
