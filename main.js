@@ -13,7 +13,8 @@ function createWindow () {
   win.menuBarVisible = false
   win.resizable = false
   win.maximizable = true
-  
+  win.fullScreenable = true
+
   // and load the index.html of the app.
   win.loadFile('index.html')
 
