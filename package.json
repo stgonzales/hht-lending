@@ -1,0 +1,14 @@
+{
+  "name": "hht-lending",
+  "version": "1.0.0",
+  "description": "A simple app to control Handheld Terminal lendings.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Stephen Goncalves stiefo.o@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  }
+}
