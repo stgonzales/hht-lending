@@ -1,12 +1,19 @@
 # HHT Lending App
 
 Created: Jul 2, 2020 5:34 AM
+
 Created By: Stephen Goncalves
+
 Last Edited By: Stephen Goncalves
+
 Last Edited Time: Jul 2, 2020 6:26 AM
+
 Property: Stephen Goncalves
+
 Status: In Progress 🙌
+
 Type: Project Kickoff 🚀
+
 
 # Overview
 
@@ -40,24 +47,16 @@ The goal is to create a very straight forward process where non-technical users 
 
 What will the user be able to do after the solution is shipped? 
 
-- [ ]  User have to be able to type in the Handheld Terminal number.
-- [ ]  User have to be able to type in the User number.
+- [x]  User have to be able to type in the Handheld Terminal number.
+- [x]  User have to be able to type in the User number.
 - [ ]  Validate the input for **ONLY NUMBERS**
-- [ ]  After type in HHT number and User number, have to be able to click on the button **'OUT'** to register the lending.
+- [x]  After type in HHT number and User number, have to be able to click on the button **'OUT'** to register the lending.
 - [ ]  Validate if the HHT is available.
-- [ ]  User have to be able to click the button **'IN'** to receive back the HHT
-- [ ]  Store data in a `.csv` file.
+- [x]  User have to be able to click the button **'IN'** to receive back the HHT
+- [x]  Store data in a `.csv` file.
 
-# Scope
+# Screenshots
 
-Define what will be done and what will not be done as part of this project.  
 
-- 
-
-### Requirements
 
 - 
-
-### Non-Requirements
-
--
