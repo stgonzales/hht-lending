@@ -1,14 +1,6 @@
 # HHT Lending App
 
-Created: Jul 2, 2020 5:34 AM
-
 Created By: Stephen Goncalves
-
-Last Edited By: Stephen Goncalves
-
-Last Edited Time: Jul 2, 2020 6:26 AM
-
-Property: Stephen Goncalves
 
 Status: In Progress 🙌
 
