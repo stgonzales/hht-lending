@@ -39,10 +39,6 @@ The goal is to create a very straight forward process where non-technical users 
 - Validate if the handheld terminal is available or not
 - Generate a `.csv` file to be used for any other purpose with Excel or any `.csv` edit software.
 
-# Success Criteria
-
-1-3 sentences on what success for the project looks like. Include metrics and qualitative descriptors if relevant. 
-
 # User Stories
 
 What will the user be able to do after the solution is shipped? 
