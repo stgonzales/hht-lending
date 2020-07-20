@@ -54,5 +54,3 @@ What will the user be able to do after the solution is shipped?
 # Screenshots
 
 ![Main Screen](/screenshots/main_screen.png?raw=true "Main Screen")
-
-- 
