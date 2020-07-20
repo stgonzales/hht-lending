@@ -17,8 +17,6 @@ Type: Project Kickoff 🚀
 
 # Overview
 
-What is the project? Why are we working on this? .
-
 The handheld terminal app brings simplicity and security for non-technical users, ensuring that the inputs have inserted accurately and the exported output readable in a 3rd part software. The handheld terminal app idea came up when observing the processes in the existing software(Excel), and there are several gaps for a non-technical user see or edit.
 
 The goal is to create a very straight forward process where non-technical users will have to follow, closing all gaps and chances to modify and break the app.
